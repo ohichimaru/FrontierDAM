@@ -70,6 +70,7 @@ h6 {
 
 .dark .services .services-content .text {
     color: #ccc;
+    text-align: justify;
 }
 
 .dark .contact-details h6 {
